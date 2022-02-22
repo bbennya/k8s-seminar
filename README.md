@@ -1,1 +1,1 @@
-# k8s-seminar -- Benny --
+# k8s-seminar
